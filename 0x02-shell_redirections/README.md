@@ -1,2 +1,2 @@
-#!/bin/bash
-echo "Hello, world"
+# Shell I/O Redirection an Filtering
+0. Hello world- > Write a script that prints “Hello, World”, followed by a new line to the standard output.
