@@ -1,3 +1,4 @@
 # Shell I/O Redirection an Filtering
 0. Hello world- > Write a script that prints “Hello, World”, followed by a new line to the standard output
 1. Confused smiley -> Write a script that displays a confused smiley "(Ôo)'
+2. Lets display -> Display the content of the /etc/passwd file.
