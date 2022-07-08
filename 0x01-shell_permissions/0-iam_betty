@@ -1,1 +1,2 @@
-betty new file
+#!/bin/bash
+su betty
